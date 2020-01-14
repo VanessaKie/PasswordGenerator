@@ -1,7 +1,18 @@
-.App {
-  text-align: center;
+.chars {
+  margin: 0 auto !important;
 }
 
+.output {
+  color: red;
+}
+.App {
+  text-align: center;
+  font-size: 20px;
+}
+p {
+  font-size: 16px;
+  letter-spacing: 2px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
